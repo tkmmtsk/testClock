@@ -50,7 +50,7 @@ class ViewController: UIViewController {
         
         //BackGroundImage
         UIGraphicsBeginImageContext(self.view.frame.size)
-        UIImage(named: "testClock.png")?.draw(in: self.view.bounds)
+        UIImage(named: "-----------------------------------.png")?.draw(in: self.view.bounds)
         let myTestClockImage: UIImage! = UIGraphicsGetImageFromCurrentImageContext()
         UIGraphicsEndImageContext()
         //ImageをbackgroundColor(BackgroundImage)に追加

@@ -11,15 +11,10 @@ Just A test Of....
 3. Add A Label Of time expression
 
 ## Requirement
+
+I wrote ViewController.swift By Swift3
  
 ## Usage
-
-Write here how to use.
-
-E.G.
-(If command, write command here.)
-
-[This URL](https://github.com/motemen/ghq) gives some inspirations about Usage.
 
 ## Install
 
